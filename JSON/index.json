@@ -70,6 +70,15 @@
         "landmark":"Cubbon Park",
         "image":"https://www.makemytrip.com/travel-guide/media/dg_image/bangalore/Cubbon-Park-Samuel-Jacob-Flickr-Creative-commons.jpg",
         "description":""
+    },
+     {
+        "id":8,
+        "state":"Maharashtra",
+        "city":"Dhule",
+        "locality":"Dhule",
+        "landmark":"5 kandil",
+        "image":"https://in.worldorgs.com/catalog/dhule/house-cleaning-service/paanch-kandil",
+        "description":""
     }
 
 
